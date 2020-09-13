@@ -25,6 +25,5 @@ class FeetAndInchesToCentimeters {
         System.out.println(inches + " inches is equal to " + feet + " feet and " + remainingInches + " inches." );
         return calcFeetAndInchesToCentimeters(feet, remainingInches);
     }
-
-    }
+}
 
